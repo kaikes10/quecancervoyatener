@@ -18,10 +18,10 @@ Será una web que determinará que cancer vas a tener en función de una serie d
 ## Framework
 PHP Framework Codeigniter 3.1.3
 
-## Contributor
+## Contribuidores
 Kaikes y Danimally
 
-## Video Tutorial
+## Tutoriales
 [![Video Tutorial](https://raw.githubusercontent.com/rudiliu/simple-login-CI/master/docs/screenshot/youtube-cover.png)](https://youtu.be/h85rXvJVLxc "Video Tutorial")
 
 
