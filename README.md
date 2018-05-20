@@ -1,10 +1,9 @@
 
-# Simple Login CI
-This web application is an example for those who wants to learn how to do user login and user management system using codeigniter 3.
+# ¿Que cancer voy a tener?
+Será una web que determinará que cancer vas a tener en función de una serie de preguntas
 
 
-
-## Application Configuration
+## Material utilizado
 * clone / download this repository to your localhost
 * create new simple_login database
 * import the database. dumb database can be found in folder docs/database/simple_login_dump.sql
@@ -17,10 +16,10 @@ This web application is an example for those who wants to learn how to do user l
 * login - email: admin@admin.com; password: adminadmin
 
 ## Framework
-This application is using PHP Framework Codeigniter 3.1.3
+PHP Framework Codeigniter 3.1.3
 
 ## Contributor
-Rudi Liu | e-Portfolio: https://sites.google.com/site/rudiliucs1/ | Linkedin: https://id.linkedin.com/in/rudi-liu-18b81079
+Kaikes y Danimally
 
 ## Video Tutorial
 [![Video Tutorial](https://raw.githubusercontent.com/rudiliu/simple-login-CI/master/docs/screenshot/youtube-cover.png)](https://youtu.be/h85rXvJVLxc "Video Tutorial")
